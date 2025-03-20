@@ -19,7 +19,7 @@ SmartNews Analyst is an **AI-driven financial research tool** that helps analyst
 ## 🏗️ How to Run Locally
 1. Clone the repository: 
    ```
-   git clone https://github.com/yourusername/smartnews-analyst.git
+   git clone https://github.com/diksha-gupta93/SmartNews-Analyst.git
    cd smartnews-analyst
    ```
 2. Install the required dependencies.
