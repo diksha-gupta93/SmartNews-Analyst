@@ -25,5 +25,5 @@ SmartNews Analyst is an **AI-driven financial research tool** that helps analyst
 2. Install the required dependencies.
 3. Start the Streamlit application:
 ```
-streamlit run app.py
+streamlit run main.py
 ```
